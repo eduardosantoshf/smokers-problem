@@ -17,5 +17,5 @@ $ ./run.sh 1 > teste.txt
 ```
 
 ## Authors
-* **Bruno Bastos**
+* **Bruno Bastos** [BrunosBastos](https://github.com/BrunosBastos)
 * **Eduardo Santos**: [eduardosantoshf](https://github.com/eduardosantoshf)
