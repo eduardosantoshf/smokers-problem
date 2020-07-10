@@ -11,7 +11,7 @@ This project was developed under the [Operating Systems](https://www.ua.pt/en/uc
 $ make all_bin
 ```
 
-* Run:
+* Run (on the **/run/** directory):
 ```console
 $ ./run.sh 1 > teste.txt
 ```
