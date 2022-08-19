@@ -1,4 +1,4 @@
-# SecondSOProject
+# Second SO Project
 
 Understanding of the mechanisms associated with the execution and synchronization of processes and threads, all managed by semaphores.
 
@@ -15,6 +15,9 @@ $ make all_bin
 ```console
 $ ./run.sh 1 > teste.txt
 ```
+
+## Grade 
+This project's grade was **16** out of 20.
 
 ## Authors
 * **Bruno Bastos**: [BrunosBastos](https://github.com/BrunosBastos)
